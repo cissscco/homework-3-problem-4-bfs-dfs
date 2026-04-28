@@ -34,25 +34,25 @@ Adjacency Matrix:
 BFS using adjacency list
 Path found: [0, 7]
 Nodes visited before reaching target: 4
-Average execution time over 5 runs: 76425 ns
+Average execution time over 5 runs: 205549 ns
 Average memory change over 5 runs: 31257 bytes
 
 DFS using adjacency list
 Path found: [0, 7]
 Nodes visited before reaching target: 6
-Average execution time over 5 runs: 76266 ns
+Average execution time over 5 runs: 196266 ns
 Average memory change over 5 runs: 33494 bytes
 
 BFS using adjacency matrix
 Path found: [0, 7]
 Nodes visited before reaching target: 4
-Average execution time over 5 runs: 17800 ns
+Average execution time over 5 runs: 18025 ns
 Average memory change over 5 runs: 33496 bytes
 
 DFS using adjacency matrix
 Path found: [0, 7]
 Nodes visited before reaching target: 6
-Average execution time over 5 runs: 15058 ns
+Average execution time over 5 runs: 15175 ns
 Average memory change over 5 runs: 33496 bytes
 
 ==================================================
@@ -97,23 +97,23 @@ Adjacency Matrix:
 BFS using adjacency list
 Path found: [A, B, G, N, O]
 Nodes visited before reaching target: 13
-Average execution time over 5 runs: 28533 ns
+Average execution time over 5 runs: 36216 ns
 Average memory change over 5 runs: 33496 bytes
 
 DFS using adjacency list
 Path found: [A, C, D, E, F, M, O]
 Nodes visited before reaching target: 10
-Average execution time over 5 runs: 23791 ns
+Average execution time over 5 runs: 23975 ns
 Average memory change over 5 runs: 33496 bytes
 
 BFS using adjacency matrix
 Path found: [A, B, G, N, O]
 Nodes visited before reaching target: 13
-Average execution time over 5 runs: 16541 ns
+Average execution time over 5 runs: 15883 ns
 Average memory change over 5 runs: 33496 bytes
 
 DFS using adjacency matrix
 Path found: [A, B, G, N, O]
 Nodes visited before reaching target: 13
-Average execution time over 5 runs: 20775 ns
+Average execution time over 5 runs: 18433 ns
 Average memory change over 5 runs: 33496 bytes
